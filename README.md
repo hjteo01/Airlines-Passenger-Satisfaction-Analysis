@@ -80,7 +80,7 @@ The analysis focused on answering the following questions:
 
 The executive presentation was built using **Google Slides**, structured using the **Pyramid Principle**.
 
-📊 View the full presentation [View the full presentation](Maven Airlines Data Storytelling.pdf)
+📊 [View the full presentation](Maven%20Airlines%20Data%20Storytelling.pdf)
 
 ## Assumptions
 
