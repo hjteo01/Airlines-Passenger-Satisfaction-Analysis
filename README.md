@@ -34,7 +34,7 @@ First-time flyers make up 18% of the base — 99% travel for business but 61% ch
 
 ## Tools Used
 
-- ***Python**: performed data cleaning and data transformation*
+- ***Python**: performed data cleaning, data transformation and EDA*
 - ***SQL**: answered business questions through queries*
 - ***Google Slides**: built an executive-ready presentation slides*
 
