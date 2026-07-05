@@ -34,9 +34,9 @@ First-time flyers make up 18% of the base — 99% travel for business but 61% ch
 
 ## Tools Used
 
-- ***Python**: performed data cleaning, data transformation and EDA*
-- ***SQL**: answered business questions through queries*
-- ***Google Slides**: built an executive-ready presentation slides*
+- _[Python](Data%20Cleaning%2C%20Transformation%2C%20EDA.ipynb): performed data cleaning, data transformation and EDA_
+- _[SQL](Data%20Analysis.sql): answered business questions through queries_
+- _[Presentation](Maven%20Airlines%20Data%20Storytelling.pdf): built an executive-ready presentation slides_
 
 ## Analysis Approach
 
@@ -80,7 +80,7 @@ The analysis focused on answering the following questions:
 
 The executive presentation was built using **Google Slides**, structured using the **Pyramid Principle**.
 
-📊 View the full presentation: [`Data_Storytelling_Maven_Airlines.pdf`](./Data_Storytelling_Maven_Airlines.pdf)
+📊 View the full presentation [View the full presentation](Maven Airlines Data Storytelling.pdf)
 
 ## Assumptions
 
